@@ -9,9 +9,9 @@ Exemplo:
 *Suporta números muito maiores
 
 
-# Estrutura de Dados
+## Estrutura de Dados
 Isso é possível pois usei uma Estrutura de Dado chamada de Lista, ela armazenam os dados em um formato de lista (dado o nome). A lista usada é uma lista ligada, sendo que existem dois tipos de Listas: as listas ligadas e as listas duplamente ligadas.
 
 
-# Detalhe:
+### Observação:
 Um detalhe deste programa é que sempre é considerado que o segundo número é maior que o primeiro, sendo que se você tentar colocar o primeiro número maior que o segundo resultará em um erro. O primeiro número só pode ser maior que o segundo em uma hipótese: Se os dois tiverem o mesmo número de casa decimais.
